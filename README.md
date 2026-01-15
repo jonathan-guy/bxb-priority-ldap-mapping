@@ -67,8 +67,8 @@ Automatically classify employees by their primary BxB priority focus based on th
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/jonathan-guy/bxb-priority-analyzer.git
-cd bxb-priority-analyzer
+git clone https://github.com/jonathan-guy/bxb-priority-ldap-mapping.git
+cd bxb-priority-ldap-mapping
 
 # 2. Set up Python environment
 python3 -m venv venv
