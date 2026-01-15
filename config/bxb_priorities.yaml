@@ -1,0 +1,19 @@
+# BxB Priorities Configuration
+# Source: https://docs.google.com/document/d/1uQp-27I8GqfuSjGdvoDoxREkiCCMes6lRY7tkihCDw0/edit
+#
+# TODO: Populate with actual priority names and descriptions from the source document
+
+vector_1:
+  - name: "Automate Block's Product"
+    keywords: []
+    description: ""
+  # Add more Vector 1 priorities...
+
+vector_2:
+  # Add Vector 2 priorities...
+
+vector_3:
+  # Add Vector 3 priorities...
+
+constants:
+  # Add Constants priorities...

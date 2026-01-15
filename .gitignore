@@ -1,0 +1,33 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Environment
+.env
+.env.local
+
+# Credentials (sensitive)
+credentials.json
+.credentials/
+token.json
+
+# Data files (generated)
+raw/*.md
+output/*.csv
+
+# Keep directory structure
+!raw/.gitkeep
+!output/.gitkeep
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
